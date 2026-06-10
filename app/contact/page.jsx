@@ -58,9 +58,11 @@ export default function ContactPage() {
             </h3>
 
             <p className="mt-3 text-slate-600">
-              +232 XXX XXX XXX
+              +232 78 304 045 
               <br />
-              +232 XXX XXX XXX
+              +232 31 470 854
+              <br />
+              +232 79 595 261
             </p>
           </div>
 
@@ -72,9 +74,9 @@ export default function ContactPage() {
             </h3>
 
             <p className="mt-3 text-slate-600">
-              info@azibokanu.com
-              <br />
-              legal@azibokanu.com
+             azibokanuandpartners@gmail.com
+              {/* <br />
+              legal@azibokanu.com */}
             </p>
           </div>
 

@@ -40,7 +40,7 @@ export default function HomePage() {
           </h1>
 
           <p className="mt-6 text-slate-300 text-lg md:text-xl max-w-3xl mx-auto font-light leading-relaxed">
-            Azibo Kanu & Partners is a premier full-service law firm offering sophisticated advocacy, strategic regulatory business advisory, and specialized corporate taxation services across West Africa.
+            Azibo Kanu & Partners is a premier full-service law firm offering sophisticated advocacy, strategic regulatory business advisory, and specialized corporate taxation services across Sierra Leone and West Africa by extension.
           </p>
 
           <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center items-center">

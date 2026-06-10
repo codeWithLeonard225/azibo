@@ -79,15 +79,15 @@ export default function Footer() {
           <div className="flex flex-col gap-3 font-normal text-slate-300">
             <div className="flex items-start gap-3 group">
               <FaLocationDot className="text-amber-500 shrink-0 mt-1 transition-transform group-hover:scale-110" />
-              <span>Wilberforce Street, Freetown, Sierra Leone</span>
+              <span>55 Robert Street, Freetown, Sierra Leone</span>
             </div>
             <div className="flex items-center gap-3 group">
               <FaPhone className="text-amber-500 shrink-0 transition-transform group-hover:scale-110" />
-              <span>+232 76 000 000 / +232 30 000 000</span>
+              <span>+232 78 304 045 / +232 31 470 854 / +232 79 595 261</span>
             </div>
             <div className="flex items-center gap-3 group">
               <FaEnvelope className="text-amber-500 shrink-0 transition-transform group-hover:scale-110" />
-              <span>info@azibokanupartners.com</span>
+              <span>azibokanuandpartners@gmail.com</span>
             </div>
           </div>
         </motion.div>
